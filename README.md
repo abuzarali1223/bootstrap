@@ -1,1 +1,2 @@
-# bootstrap
+# all-practice-projects
+practice prejects
